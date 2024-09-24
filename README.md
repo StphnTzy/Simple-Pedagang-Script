@@ -1,4 +1,4 @@
-# darry-development
+# Darry Ariel Development
 
 Indonesia:
 Jangan lupa untuk mencantumkan credit di setiap script!!
