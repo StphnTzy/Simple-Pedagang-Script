@@ -24,11 +24,11 @@ soon
 - And More
 
 # Requirement
-- QBCore Framework
-- ox_lib
-- ox_target/qb-target Support
-- ox_inventory
-- qb-ox_inventory
+- [QBCore Framework](https://github.com/qbcore-framework)
+- [ox_lib](https://github.com/overextended/ox_lib)
+- [ox_target](https://github.com/overextended/ox_target)/[qb-target](https://github.com/qbcore-framework/qb-target) Support
+- [ox_inventory](https://github.com/overextended/ox_inventory)
+- [qb-ox_inventory](https://github.com/mahanmoulaei/qb-ox_inventory)
 
 # Instalation
 - First, add new jobs at [qb]/qb-core/shared/job.lua, example job on files
